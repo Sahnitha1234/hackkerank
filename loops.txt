@@ -1,0 +1,4 @@
+   if _ _name_ _ == '_ _main_ _':
+        n = int(input())
+        for i in range(n):
+            print(i*i)
